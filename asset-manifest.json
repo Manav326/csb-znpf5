@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://manav326.github.io/csb-znpf5/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://manav326.github.io/csb-znpf5/static/js/main.c03eaa4b.chunk.js",
+    "main.js.map": "https://manav326.github.io/csb-znpf5/static/js/main.c03eaa4b.chunk.js.map",
+    "runtime-main.js": "https://manav326.github.io/csb-znpf5/static/js/runtime-main.f7bac4b1.js",
+    "runtime-main.js.map": "https://manav326.github.io/csb-znpf5/static/js/runtime-main.f7bac4b1.js.map",
+    "static/js/2.6487861b.chunk.js": "https://manav326.github.io/csb-znpf5/static/js/2.6487861b.chunk.js",
+    "static/js/2.6487861b.chunk.js.map": "https://manav326.github.io/csb-znpf5/static/js/2.6487861b.chunk.js.map",
+    "index.html": "https://manav326.github.io/csb-znpf5/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://manav326.github.io/csb-znpf5/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6487861b.chunk.js.LICENSE.txt": "https://manav326.github.io/csb-znpf5/static/js/2.6487861b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7bac4b1.js",
+    "static/js/2.6487861b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c03eaa4b.chunk.js"
+  ]
+}
